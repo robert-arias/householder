@@ -1,2 +1,2 @@
-# householder
+# Householder
 Householder algorithm
